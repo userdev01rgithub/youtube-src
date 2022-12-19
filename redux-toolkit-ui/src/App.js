@@ -31,6 +31,7 @@ function App() {
                     </div>
                     <div className='w-1/3'>
                         <h1 className='font-bold my-5'>Redux Toolkit Async Thunk</h1>
+                        
                         <Posts />
                     </div>
                 </header>
